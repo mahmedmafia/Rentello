@@ -1,0 +1,58 @@
+.auth {
+  margin: 5rem auto;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.2);
+  width: 25rem;
+  border-radius: 8px;
+  padding:1rem 2rem;
+  background-color: #fff;
+}
+
+.control {
+  margin:auto;
+  margin-bottom: 1rem;
+}
+
+.control label {
+  display: block;
+  color: #616161;
+  text-transform: uppercase;
+  margin-bottom: 0.5rem;
+}
+
+.control input {
+  display: block;
+  /* width: 20rem; */
+  margin: auto;
+  border-radius: 4px;
+  padding: 0.25rem;
+  width:100%;
+  border: 1px solid rgb(0, 0, 0);
+}
+.authButton{
+  display: block;
+  width:100%;
+  background-color: black;
+}
+p{
+  margin:.5rem auto;
+
+}
+.errorText{
+  color:red;
+  font-size: .9rem;
+}
+.info{
+  font-size: .9rem;
+
+}
+.info button{
+  padding:0px;
+  border:0px;
+  border-radius: 0px;
+  background:white;
+}
+.formError{
+  text-align: center;
+  padding:2px;
+  font-size:1.1rem;
+}
